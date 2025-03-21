@@ -21,5 +21,6 @@ malladotroyanopablo@gmail.com
 
 
 Portfolio:
+LinkedIn:
 
 
