@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 Pablo | Desarrollo de Aplicaciones Multiplataforma  
 
-<!--
-**PabloMallado/PabloMallado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Pablo, estudiante de un Grado Superior en Desarrollo de Aplicaciones Multiplataforma. Me apasiona la programación y siempre estoy buscando mejorar mis habilidades y aprender nuevas tecnologías.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Herramientas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Lenguajes de Programación  
+- Java ☕  
+- JavaScript 🟨  
+- HTML & CSS 🎨  
+
+### 🛠️ Herramientas  
+- Eclipse IDE  
+- Visual Studio Code  
+- Git  
+
+## 📫 Contacto  
+Si quieres colaborar o hablar sobre desarrollo, ¡contáctame!  
+
+📌 _Siempre aprendiendo y mejorando 🚀_  
