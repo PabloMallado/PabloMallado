@@ -15,6 +15,7 @@
 - Git  
 
 ## 📫 Contacto  
-Si quieres colaborar o hablar sobre desarrollo, ¡contáctame!  
+Si quieres colaborar o hablar sobre desarrollo, ¡contáctame!
+malladotroyanopablo@gmail.com
 
-📌 _Siempre aprendiendo y mejorando 🚀_  
+
