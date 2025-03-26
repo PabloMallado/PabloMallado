@@ -20,7 +20,7 @@ malladotroyanopablo@gmail.com
 
 
 
-Portfolio:
-LinkedIn:
+Portfolio: https://pablomallado.github.io/portfolio/
+
 
 
